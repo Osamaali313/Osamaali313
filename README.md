@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Syed%20Osama%20Ali&fontSize=42&fontAlignY=32&desc=AI/ML%20Manager%20%7C%20Building%20the%20Future%20with%20AI&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Syed%20Osama%20Ali&fontSize=42&fontAlignY=32&desc=Chief%20AI%20Architect%20%7C%20Building%20the%20Future%20with%20AI&descAlignY=51&descAlign=50"/>
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+AI%2FML+Manager+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+Innovative+GenAI+Solutions+%F0%9F%9A%80;Transforming+Ideas+into+AI-Powered+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Chief+AI+Architect+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+Innovative+GenAI+Solutions+%F0%9F%9A%80;Transforming+Ideas+into+AI-Powered+Reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views with Animation -->
@@ -68,7 +68,7 @@
 <td width="50%">
 
 ### 🔭 **Current Projects**
-- 🌟 Building Next-gen GenAI SaaS Platform
+- 🌟 Building [**Kreo.net**](https://www.kreo.net/) - Next-gen GenAI SaaS Platform
 - 🤖 Developing Advanced Agentic RAG Systems
 - 🎙️ Creating AI-Powered Podcast Generators
 - 🛡️ Building AI Safety & Content Moderation Tools
@@ -104,7 +104,7 @@
 ## 🧠 **AI & Tech Stack**
 
 <!-- Animated Tech Stack -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,gcp,azure,git,github,vscode,jupyter&theme=dark&perline=5" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,typescript,js,nodejs,docker,gcp,azure,git,github,vscode,jupyter&theme=dark&perline=7" alt="Tech Stack" />
 
 ### **AI/ML Technologies**
 </div>
@@ -112,47 +112,81 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/brain.png" width="48" height="48" alt="LLMs"/>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="LLMs"/>
 <br/><strong>LLMs</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="48" height="48" alt="Deep Learning"/>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="Deep Learning"/>
 <br/><strong>Deep Learning</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/data-science.png" width="48" height="48" alt="Data Science"/>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Data Science"/>
 <br/><strong>Data Science</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/neural-network.png" width="48" height="48" alt="Neural Networks"/>
+<td align="center" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Neural Networks"/>
 <br/><strong>Neural Networks</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/computer-vision.png" width="48" height="48" alt="Computer Vision"/>
+<td align="center" width="80">
+<img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="48" height="48" alt="Computer Vision"/>
 <br/><strong>Computer Vision</strong>
+</td>
+<td align="center" width="80">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="NLP"/>
+<br/><strong>NLP</strong>
 </td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/chatbot.png" width="48" height="48" alt="NLP"/>
-<br/><strong>NLP</strong>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<br/><strong>React</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/workflow.png" width="48" height="48" alt="MLOps"/>
-<br/><strong>MLOps</strong>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+<br/><strong>TypeScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/api.png" width="48" height="48" alt="LLMOps"/>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<br/><strong>JavaScript</strong>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+<br/><strong>Node.js</strong>
+</td>
+<td align="center" width="80">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48" alt="Streamlit"/>
+<br/><strong>Streamlit</strong>
+</td>
+<td align="center" width="80">
+<img src="https://gradio.app/assets/img/logo.svg" width="48" height="48" alt="Gradio"/>
+<br/><strong>Gradio</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://python.langchain.com/img/brand/wordmark.png" width="48" height="24" alt="LangChain"/>
+<br/><strong>LangChain</strong>
+</td>
+<td align="center" width="80">
+<img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="48" height="48" alt="CrewAI"/>
+<br/><strong>CrewAI</strong>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="LLMOps"/>
 <br/><strong>LLMOps</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/cloud.png" width="48" height="48" alt="Cloud AI"/>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Cloud AI"/>
 <br/><strong>Cloud AI</strong>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/analytics.png" width="48" height="48" alt="Analytics"/>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Analytics"/>
 <br/><strong>Analytics</strong>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="MLOps"/>
+<br/><strong>MLOps</strong>
 </td>
 </tr>
 </table>
