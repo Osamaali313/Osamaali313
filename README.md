@@ -68,7 +68,7 @@
 <td width="50%">
 
 ### 🔭 **Current Projects**
-- 🌟 Building [**Kreo.net**](https://www.kreo.net/) - Next-gen GenAI SaaS Platform
+- 🌟 Building Next-gen GenAI SaaS Platform
 - 🤖 Developing Advanced Agentic RAG Systems
 - 🎙️ Creating AI-Powered Podcast Generators
 - 🛡️ Building AI Safety & Content Moderation Tools
