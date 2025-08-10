@@ -159,7 +159,7 @@
 <br/><strong>Streamlit</strong>
 </td>
 <td align="center" width="80">
-<img src="https://gradio.app/assets/img/logo.svg" width="48" height="48" alt="Gradio"/>
+<img src="https://github.com/gradio-app/gradio/raw/main/readme_files/gradio.svg" width="48" height="48" alt="Gradio"/>
 <br/><strong>Gradio</strong>
 </td>
 </tr>
