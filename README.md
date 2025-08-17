@@ -35,20 +35,20 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/AI%20Pioneer-🚀-FF6B35?style=for-the-badge" alt="AI Pioneer"/>
-<br/><strong>AI Pioneer</strong>
+<img src="https://img.shields.io/badge/🚀%20AI%20Pioneer-Building%20Tomorrow-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1b27" alt="AI Pioneer"/>
+<br/><strong style="color: #FF6B35; font-size: 11px;">AI Pioneer</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/Code%20Innovator-💻-1E88E5?style=for-the-badge" alt="Code Innovator"/>
-<br/><strong>Code Innovator</strong>
+<img src="https://img.shields.io/badge/💻%20Code%20Innovator-Full%20Stack%20AI-1E88E5?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1b27" alt="Code Innovator"/>
+<br/><strong style="color: #1E88E5; font-size: 11px;">Code Innovator</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/ML%20Expert-🧠-4CAF50?style=for-the-badge" alt="ML Expert"/>
-<br/><strong>ML Expert</strong>
+<img src="https://img.shields.io/badge/🧠%20ML%20Expert-Deep%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1b27" alt="ML Expert"/>
+<br/><strong style="color: #4CAF50; font-size: 11px;">ML Expert</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.shields.io/badge/Tech%20Leader-⭐-FF9800?style=for-the-badge" alt="Tech Leader"/>
-<br/><strong>Tech Leader</strong>
+<img src="https://img.shields.io/badge/⭐%20Tech%20Leader-Innovation%20Driver-FF9800?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1b27" alt="Tech Leader"/>
+<br/><strong style="color: #FF9800; font-size: 11px;">Tech Leader</strong>
 </td>
 </tr>
 </table>
