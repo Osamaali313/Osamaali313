@@ -34,21 +34,73 @@
 <!-- Custom Achievement Badges -->
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/🚀%20AI%20Pioneer-Building%20Tomorrow-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1b27" alt="AI Pioneer"/>
-<br/><strong style="color: #FF6B35; font-size: 11px;">AI Pioneer</strong>
+<td align="center" width="120">
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F7931E;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow1">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#FF6B35" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="120" height="80" rx="12" fill="url(#grad1)" filter="url(#shadow1)"/>
+  <text x="60" y="25" text-anchor="middle" fill="white" font-size="20" font-weight="bold">🚀</text>
+  <text x="60" y="42" text-anchor="middle" fill="white" font-size="10" font-weight="600" font-family="system-ui">AI PIONEER</text>
+  <text x="60" y="55" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="8" font-family="system-ui">Building Tomorrow</text>
+</svg>
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/💻%20Code%20Innovator-Full%20Stack%20AI-1E88E5?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1b27" alt="Code Innovator"/>
-<br/><strong style="color: #1E88E5; font-size: 11px;">Code Innovator</strong>
+<td align="center" width="120">
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E88E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976D2;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow2">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#1E88E5" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="120" height="80" rx="12" fill="url(#grad2)" filter="url(#shadow2)"/>
+  <text x="60" y="25" text-anchor="middle" fill="white" font-size="20" font-weight="bold">💻</text>
+  <text x="60" y="42" text-anchor="middle" fill="white" font-size="10" font-weight="600" font-family="system-ui">CODE INNOVATOR</text>
+  <text x="60" y="55" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="8" font-family="system-ui">Full Stack AI</text>
+</svg>
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/🧠%20ML%20Expert-Deep%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1b27" alt="ML Expert"/>
-<br/><strong style="color: #4CAF50; font-size: 11px;">ML Expert</strong>
+<td align="center" width="120">
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#388E3C;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow3">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#4CAF50" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="120" height="80" rx="12" fill="url(#grad3)" filter="url(#shadow3)"/>
+  <text x="60" y="25" text-anchor="middle" fill="white" font-size="20" font-weight="bold">🧠</text>
+  <text x="60" y="42" text-anchor="middle" fill="white" font-size="10" font-weight="600" font-family="system-ui">ML EXPERT</text>
+  <text x="60" y="55" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="8" font-family="system-ui">Deep Learning</text>
+</svg>
 </td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/⭐%20Tech%20Leader-Innovation%20Driver-FF9800?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1b27" alt="Tech Leader"/>
-<br/><strong style="color: #FF9800; font-size: 11px;">Tech Leader</strong>
+<td align="center" width="120">
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F57C00;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow4">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#FF9800" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="120" height="80" rx="12" fill="url(#grad4)" filter="url(#shadow4)"/>
+  <text x="60" y="25" text-anchor="middle" fill="white" font-size="20" font-weight="bold">⭐</text>
+  <text x="60" y="42" text-anchor="middle" fill="white" font-size="10" font-weight="600" font-family="system-ui">TECH LEADER</text>
+  <text x="60" y="55" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-size="8" font-family="system-ui">Innovation Driver</text>
+</svg>
 </td>
 </tr>
 </table>
