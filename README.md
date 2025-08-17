@@ -34,21 +34,17 @@
 <!-- Custom Achievement Badges -->
 <table>
 <tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/🚀-AI%20PIONEER-FF6B35?style=for-the-badge&labelColor=21262d&color=161b22" alt="AI Pioneer"/>
-<br><sub>Building Tomorrow</sub>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/AI%20Pioneer-🚀-FF6B35?style=for-the-badge" alt="AI Pioneer"/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/💻-CODE%20INNOVATOR-1E88E5?style=for-the-badge&labelColor=21262d&color=161b22" alt="Code Innovator"/>
-<br><sub>Full Stack AI</sub>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Code%20Innovator-💻-1E88E5?style=for-the-badge" alt="Code Innovator"/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/🧠-ML%20EXPERT-4CAF50?style=for-the-badge&labelColor=21262d&color=161b22" alt="ML Expert"/>
-<br><sub>Deep Learning</sub>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/ML%20Expert-🧠-4CAF50?style=for-the-badge" alt="ML Expert"/>
 </td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/⭐-TECH%20LEADER-FF9800?style=for-the-badge&labelColor=21262d&color=161b22" alt="Tech Leader"/>
-<br><sub>Innovation Driver</sub>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Tech%20Leader-⭐-FF9800?style=for-the-badge" alt="Tech Leader"/>
 </td>
 </tr>
 </table>
