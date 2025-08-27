@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=osamaali313&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/osamaali313?logo=github&style=for-the-badge&color=0969da&labelColor=302d41&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/Years%20Coding-5%2B-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Years Coding" />
-  <img src="https://img.shields.io/badge/AI%20Projects-20%2B-orange?style=for-the-badge&logo=robot&logoColor=white" alt="AI Projects" />
+  <img src="https://img.shields.io/badge/Years%20Coding-8%2B-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Years Coding" />
+  <img src="https://img.shields.io/badge/AI%20Projects-25%2B-orange?style=for-the-badge&logo=robot&logoColor=white" alt="AI Projects" />
 </p>
 
 <!-- Enhanced Animated Badges Row -->
@@ -32,12 +32,9 @@
 
 ## 🏆 **GitHub Trophies & Achievements**
 
-<!-- Fixed Trophy Configuration - Multiple options for reliability -->
-<img src="https://github-profile-trophy.vercel.app/?username=osamaali313&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-<!-- Backup Trophy Display -->
+<!-- Working Trophy Configuration - Using alternative endpoint -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=osamaali313&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies Alternative" />
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=osamaali313&theme=dracula&column=11" alt="GitHub Trophies" />
 </p>
 
 <!-- Enhanced Achievement Badges with New Categories -->
@@ -270,40 +267,34 @@
 
 ## 📊 **GitHub Analytics & Performance Dashboard**
 
-<!-- Enhanced GitHub Stats with Multiple Metrics -->
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=osamaali313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaali313&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaali313&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=400" alt="Top Languages" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=osamaali313&theme=tokyonight&hide_border=true&layout=compact&card_width=400" alt="Wakatime Stats" />
-</td>
-</tr>
-</table>
+<!-- Enhanced GitHub Stats with Working Alternative Endpoints -->
+<p align="left">
+<img align="left" width="49.7%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=osamaali313&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
+<img align="right" width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaali313&theme=dracula" alt="GitHub Streak" />
+</p>
+
+<br clear="both" />
+
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaali313&theme=dracula&langs_count=25&layout=compact" alt="Top Languages" />
+</p>
+
+<br clear="both" />
 
 <!-- Enhanced Contribution Graph with Better Styling -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=osamaali313&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=osamaali313&bg_color=282a36&color=bd93f9&line=bd93f9&point=ff79c6&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 
-<!-- New Metrics Dashboard -->
+<!-- Alternative Stats Dashboard -->
 <div align="center">
 <table>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamaali313&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamaali313&theme=dracula" alt="Profile Details"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osamaali313&theme=tokyonight&utc_offset=5" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osamaali313&theme=dracula&utc_offset=5" alt="Productive Time"/>
 </td>
 </tr>
 </table>
@@ -697,18 +688,19 @@ Performance Optimization        ████████████████
 <br/><em>Continuous learning</em>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/⏱️%20Experience-5%2B%20Years-red?style=for-the-badge" alt="Experience"/>
+<img src="https://img.shields.io/badge/⏱️%20Experience-8%2B%20Years-red?style=for-the-badge" alt="Experience"/>
 <br/><strong>Industry Experience</strong>
-<br/><em>AI expertise</em>
+<br/><em>Full-stack & AI expertise</em>
 </td>
 </tr>
 </table>
 
 ### **🏅 Notable Recognitions**
+- 🏆 **Senior Full-Stack Developer** - 8+ Years Development Experience
 - 🥇 **Top AI Contributor** - Open Source Community 2024
 - 🏆 **Innovation Award** - Pakistan Tech Summit 2024
 - 🎖️ **AI Safety Advocate** - Responsible AI Initiative
-- 🌟 **Rising Star** - ML Engineering Community
+- 🌟 **Rising AI Leader** - ML Engineering Community
 - 📊 **Data Science Excellence** - Kaggle Competitions
 
 </div>
@@ -806,11 +798,12 @@ Performance Optimization        ████████████████
 - 🚀 **$15.7 Trillion** AI contribution to global economy by 2030
 
 ### **🎯 My Personal AI Journey**
-- 🎓 **Started**: 2019 - First ML model
-- 🚀 **Breakthrough**: 2021 - First production AI system
-- 🏆 **Achievement**: 2023 - Chief AI Architect role
-- 🌟 **Current**: 2025 - Building next-gen GenAI platform
-- 🔮 **Vision**: 2030 - Leading AI innovation globally
+- 🎓 **Started**: 2016 - First programming experience
+- 🚀 **AI Introduction**: 2019 - First ML model development
+- 🏆 **Breakthrough**: 2021 - First production AI system
+- 🌟 **Leadership**: 2023 - Chief AI Architect role
+- 🚀 **Current**: 2025 - Building next-gen GenAI platform
+- 🔮 **Vision**: 2030 - Leading global AI innovation
 
 </details>
 
