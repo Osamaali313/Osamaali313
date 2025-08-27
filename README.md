@@ -3,9 +3,9 @@
 <!-- Animated Header with Typing Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Syed%20Osama%20Ali&fontSize=42&fontAlignY=32&desc=Chief%20AI%20Architect%20%7C%20Building%20the%20Future%20with%20AI&descAlignY=51&descAlign=50"/>
 
-<!-- Enhanced Animated Typing SVG with More Dynamic Content -->
+<!-- Fixed Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+Chief+AI+Architect+from+Pakistan+🇵🇰;🧠+Specializing+in+LLMs+%26+GenAI+Solutions;🔬+Building+Next-Gen+AI+Applications;💡+Transforming+Ideas+into+AI-Powered+Reality;🌟+Open+to+Collaborations+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+Chief+AI+Architect+from+Pakistan+🇵🇰;🧠+Specializing+in+LLMs+and+GenAI+Solutions;🔬+Building+Next-Gen+AI+Applications;💡+Transforming+Ideas+into+AI-Powered+Reality;🌟+Open+to+Collaborations+and+Innovation" alt="Typing SVG" />
 </p>
 
 <!-- Enhanced Profile Views with More Metrics -->
@@ -32,8 +32,13 @@
 
 ## 🏆 **GitHub Trophies & Achievements**
 
-<!-- Fixed Trophy Configuration with Better Theme and Parameters -->
-<img src="https://github-profile-trophy.vercel.app/?username=osamaali313&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=1&column=4&row=2" alt="GitHub Trophies" />
+<!-- Fixed Trophy Configuration - Multiple options for reliability -->
+<img src="https://github-profile-trophy.vercel.app/?username=osamaali313&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+<!-- Backup Trophy Display -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=osamaali313&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies Alternative" />
+</p>
 
 <!-- Enhanced Achievement Badges with New Categories -->
 <table>
@@ -317,25 +322,37 @@
 <td width="50%">
 
 ### 🌟 **Highlighted AI Projects**
-<a href="https://github.com/osamaali313/project1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaali313&repo=project1&theme=tokyonight&hide_border=true" alt="Featured Project 1"/>
+<!-- Replace these with your actual repository names -->
+<a href="https://github.com/osamaali313">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaali313&repo=ai-project-demo&theme=tokyonight&hide_border=true&show_owner=true" alt="AI Project Demo"/>
 </a>
 
-<a href="https://github.com/osamaali313/project2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaali313&repo=project2&theme=tokyonight&hide_border=true" alt="Featured Project 2"/>
-</a>
+### 📊 **Latest Work**
+<div align="center">
+<img src="https://img.shields.io/badge/🤖%20GenAI%20Projects-Active%20Development-FF6B6B?style=for-the-badge" alt="GenAI Projects"/>
+<br/>
+<img src="https://img.shields.io/badge/🔧%20RAG%20Systems-Production%20Ready-4ECDC4?style=for-the-badge" alt="RAG Systems"/>
+<br/>
+<img src="https://img.shields.io/badge/📱%20AI%20Applications-User%20Focused-FFE66D?style=for-the-badge" alt="AI Applications"/>
+</div>
 
 </td>
 <td width="50%">
 
-### 🚀 **Latest Repositories**
-<a href="https://github.com/osamaali313/project3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaali313&repo=project3&theme=tokyonight&hide_border=true" alt="Latest Project 1"/>
-</a>
+### 🚀 **Repository Categories**
+<!-- Showing repository stats instead of pins -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=osamaali313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+</div>
 
-<a href="https://github.com/osamaali313/project4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaali313&repo=project4&theme=tokyonight&hide_border=true" alt="Latest Project 2"/>
-</a>
+### 🎯 **Current Focus**
+<div align="center">
+<img src="https://img.shields.io/badge/🧠%20LLM%20Engineering-Advanced-9B59B6?style=for-the-badge" alt="LLM Engineering"/>
+<br/>
+<img src="https://img.shields.io/badge/☁️%20Cloud%20AI-Scalable-3F51B5?style=for-the-badge" alt="Cloud AI"/>
+<br/>
+<img src="https://img.shields.io/badge/🔬%20Research-Innovative-E91E63?style=for-the-badge" alt="Research"/>
+</div>
 
 </td>
 </tr>
