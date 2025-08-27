@@ -29,7 +29,7 @@
 
 ## 🏆 **GitHub Trophies & Achievements**
 
-[![](https://github-trophies.vercel.app/?username=Osamaali313&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-trophies.vercel.app/?username=Osamaali313&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Custom Achievement Badges -->
 <table>
