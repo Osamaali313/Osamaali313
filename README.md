@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Chief+AI+Architect+%7C+Building+Tomorrow's+Intelligence;💡+Rust+•+Go+•+Python+•+Next.js+Polyglot;☁️+Multi-Cloud+Architect+%7C+AWS+•+GCP+•+Azure;🤖+GenAI+Pioneer+%7C+LLMs+•+RAG+•+AI+Agents" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=🚀+Chief+AI+Architect+Building+Tomorrow's+Intelligence;💡+Rust+%7C+Go+%7C+Python+%7C+Next.js+Polyglot;☁️+Multi-Cloud+Architect+AWS+%7C+GCP+%7C+Azure;🤖+GenAI+Pioneer+LLMs+%7C+RAG+%7C+AI+Agents" alt="Dynamic Typing" />
 </p>
 
 <!-- Elite Badges -->
@@ -64,37 +64,63 @@
 
 <div align="center">
 
-## 🚀 **What Drives Me**
+## 👨‍💻 **About Me**
 
 </div>
 
-```rust
-struct ChiefAIArchitect {
-    name: String,
-    role: String,
-    mission: String,
-    current_focus: Vec<String>,
-    tech_philosophy: String,
-}
+<table align="center" width="95%">
+<tr>
+<td width="60%">
 
-impl ChiefAIArchitect {
-    fn new() -> Self {
-        Self {
-            name: "Syed Osama Ali".to_string(),
-            role: "Chief AI Architect @ Projectler Inc | Head of AI @ DataNexum".to_string(),
-            mission: "Building intelligent systems that transform industries".to_string(),
-            current_focus: vec![
-                "🤖 Advanced Agentic RAG Systems".to_string(),
-                "🌐 Next-Gen GenAI SaaS Platforms".to_string(),
-                "⚡ High-Performance Distributed AI".to_string(),
-                "🛡️ AI Safety & Responsible AI".to_string(),
-                "🎓 Researching MSc in Secure AI Agents".to_string(),
-            ],
-            tech_philosophy: "Build fast, scale smart, innovate fearlessly".to_string(),
-        }
-    }
-}
+### **Syed Osama Ali** - Chief AI Architect
+
+I'm a **passionate AI engineer and architect** from Pakistan 🇵🇰, dedicated to building the next generation of intelligent systems. As **Head of AI at Projectler Inc** and **DataNexum**, I lead teams in developing cutting-edge GenAI solutions that solve real-world problems.
+
+**What sets me apart:**
+- 🦀 **Systems expert** in Rust & Go for high-performance AI
+- ⚛️ **Full-stack polyglot** with Next.js, React, TypeScript
+- ☁️ **Multi-cloud architect** across AWS, GCP, and Azure
+- 🤖 **GenAI specialist** in LLMs, RAG, and AI Agents
+- 🎓 **Academic pursuer** seeking MSc in Secure AI Agents
+
+**My superpower?** Transforming complex AI research into production-ready systems that scale.
+
+</td>
+<td width="40%">
+
+### **Quick Facts** ⚡
+
+```yaml
+role: Chief AI Architect
+company: Projectler Inc | DataNexum
+location: Karachi, Pakistan 🇵🇰
+languages:
+  systems: [Rust, Go, C++]
+  ai_ml: [Python]
+  web: [TypeScript, JavaScript]
+clouds: [AWS, GCP, Azure]
+expertise:
+  - GenAI & LLMs
+  - RAG Systems
+  - AI Agents
+  - MLOps/LLMOps
+  - Microservices
+education_goal: MSc Computer Science
+status: Open for collaboration
+availability: Let's build! 🚀
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 **What Drives Me**
+
+</div>
 
 <table align="center" width="95%">
 <tr>
@@ -102,62 +128,95 @@ impl ChiefAIArchitect {
 
 ### 🎯 **Current Mission**
 
-```go
-package main
+**🌟 Active Projects:**
+- GenAI SaaS Platform (Rust + Next.js)
+- Multi-Agent RAG Systems (Python + Go)
+- GraphRAG Data Intelligence Engine
+- AI Podcast Generator with Voice Cloning
+- Enterprise AI Safety Frameworks
 
-type Mission struct {
-    Primary   []string
-    Research  string
-    Impact    string
-}
+**🎓 Research:**
+- MSc CS: Secure AI Agents for Interactive Apps
 
-func (m *Mission) Execute() {
-    projects := []string{
-        "🌟 GenAI SaaS Platform (Rust + Next.js)",
-        "🤖 Multi-Agent RAG Systems (Python + Go)",
-        "📊 GraphRAG Data Intelligence Engine",
-        "🎙️ AI Podcast Generator with Voice Cloning",
-        "🛡️ Enterprise AI Safety Frameworks",
-    }
-    
-    research := "MSc CS: Secure AI Agents for Interactive Apps"
-    impact := "Democratizing AI • Empowering Innovation"
-}
-```
+**💡 Impact:**
+- Democratizing AI • Empowering Innovation
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 **Research & Growth**
+### 🔬 **Research & Academic Pursuit**
 
-```typescript
-interface ResearchFocus {
-  degree: string;
-  universities: string[];
-  interests: string[];
-  nextGoals: string[];
-}
+**📚 Degree:** MSc Computer Science
 
-const myResearch: ResearchFocus = {
-  degree: "MSc Computer Science",
-  universities: [
-    "University of Alberta 🇨🇦",
-    "University of Manitoba 🇨🇦", 
-    "St. Francis Xavier 🇨🇦"
-  ],
-  interests: [
-    "Secure AI Agents",
-    "Interactive AI Applications",
-    "AI Safety & Alignment",
-    "Multi-Modal Systems"
-  ],
-  nextGoals: [
-    "Advanced MLOps & LLMOps",
-    "Multi-Cloud AI Architecture",
-    "Real-time AI Systems"
-  ]
-};
-```
+**🎓 Target Universities:**
+- University of Alberta 🇨🇦
+- University of Manitoba 🇨🇦
+- St. Francis Xavier 🇨🇦
+
+**🧠 Research Interests:**
+- Secure AI Agents
+- Interactive AI Applications
+- AI Safety & Alignment
+- Multi-Modal AI Systems
+
+**🚀 Next Goals:**
+- Advanced MLOps & LLMOps
+- Multi-Cloud AI Architecture
+- Real-time AI Systems at Scale
+
+</td>
+</tr>
+</table>
+
+<table align="center" width="95%">
+<tr>
+<td width="33%" align="center">
+
+### 🎯 **Seeking Opportunities**
+
+**💼 Project Collaborations:**
+- 🚀 GenAI SaaS Ventures
+- 🤖 Advanced AI Agent Systems
+- ⚡ High-Performance Computing
+- 🌐 Open Source Contributions
+
+**🔬 Research Areas:**
+- 🛡️ AI Safety & Ethics
+- 🧠 Multi-Agent Coordination
+- 🔐 Secure AI Applications
+
+</td>
+<td width="33%" align="center">
+
+### 💪 **My Expertise**
+
+**🏗️ Architecture:**
+- GenAI System Design
+- Multi-Cloud Solutions
+- Microservices (Rust/Go)
+- Distributed Systems
+
+**💻 Development:**
+- LLM Applications
+- RAG Implementations
+- Full-Stack AI Apps
+- API Design & Integration
+
+</td>
+<td width="33%" align="center">
+
+### 🌱 **Continuous Learning**
+
+**📖 Currently Mastering:**
+- Advanced MLOps/LLMOps
+- Distributed AI Systems
+- Edge AI Deployment
+- AI Agent Orchestration
+- Multi-Modal AI
+- Serverless ML Architectures
+
+**🎯 Philosophy:**
+*Build fast, scale smart, innovate fearlessly*
 
 </td>
 </tr>
@@ -222,10 +281,10 @@ const myResearch: ResearchFocus = {
 </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML Frameworks"/>
-<img width="48" src="https://python.langchain.com/img/favicon.ico" alt="LangChain"/>
-<img width="48" src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="CrewAI"/>
-<img width="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML Frameworks"/>
+<img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="LangChain" style="margin: 0 4px;"/>
+<img width="48" height="48" src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" alt="LLMs" style="margin: 0 4px;"/>
+<img width="48" height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" style="margin: 0 4px;"/>
 </p>
 
 <table align="center">
@@ -568,32 +627,68 @@ let learning = vec![
 
 </div>
 
-```python
-class AIArchitect:
-    def __init__(self):
-        self.vision = "Democratizing AI for everyone"
-        self.approach = "Fast execution, smart scaling, fearless innovation"
-        self.impact = "Building systems that matter"
-    
-    def build_future(self):
-        while True:
-            self.learn()
-            self.build()
-            self.share()
-            self.inspire()
-            
-    def philosophy(self):
-        return """
-        🚀 Ship fast, iterate faster
-        🧠 AI-first, human-centered
-        ⚡ Performance is a feature
-        🌍 Open source is the way
-        🎯 Impact over perfection
-        """
+<table align="center" width="90%">
+<tr>
+<td align="center">
 
-architect = AIArchitect()
-architect.build_future()
-```
+### 🚀 **My Vision**
+
+**Democratizing AI for Everyone**
+
+</td>
+<td align="center">
+
+### ⚡ **My Approach**
+
+**Fast Execution • Smart Scaling • Fearless Innovation**
+
+</td>
+<td align="center">
+
+### 💡 **My Impact**
+
+**Building Systems That Matter**
+
+</td>
+</tr>
+</table>
+
+<table align="center" width="90%">
+<tr>
+<td width="50%" align="center">
+
+### 📋 **Development Philosophy**
+
+🚀 **Ship fast, iterate faster**
+
+🧠 **AI-first, human-centered**
+
+⚡ **Performance is a feature**
+
+🌍 **Open source is the way**
+
+🎯 **Impact over perfection**
+
+</td>
+<td width="50%" align="center">
+
+### 🔄 **Continuous Cycle**
+
+**Learn** → **Build** → **Share** → **Inspire**
+
+*Repeat Forever*
+
+---
+
+**Current Status:** 🟢 Building the Future
+
+**Availability:** 🟢 Open to Collaboration
+
+**Energy Level:** ⚡ Maximum
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -638,16 +733,15 @@ Building the Next Era
 
 <br/>
 
-```rust
-// Why I choose what I choose:
-let tech_decisions = HashMap::from([
-    ("Rust", "When performance is non-negotiable"),
-    ("Go", "When simplicity meets concurrency"),
-    ("Python", "When AI/ML is the mission"),
-    ("Next.js", "When UX excellence matters"),
-    ("AWS/GCP", "When scale is infinite"),
-]);
-```
+### **Why I Choose What I Choose:**
+
+| **Technology** | **Use Case** | **Reason** |
+|:--------------:|:------------:|:-----------|
+| **Rust** 🦀 | Systems Programming | When performance is non-negotiable |
+| **Go** ⚡ | Microservices | When simplicity meets concurrency |
+| **Python** 🐍 | AI/ML | When AI/ML is the mission |
+| **Next.js** ⚛️ | Frontend | When UX excellence matters |
+| **AWS/GCP** ☁️ | Cloud | When scale needs to be infinite |
 
 </details>
 
@@ -673,7 +767,7 @@ let tech_decisions = HashMap::from([
 <!-- Epic Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,24&height=150&section=footer&text=Let's%20Build%20the%20AI%20Future%20🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%F0%9F%91%8B+Let's+connect+and+innovate!;Open+to+collaborations+%7C+Always+learning+%7C+Forever+building+%F0%9F%8C%B1;%22Code+with+purpose%2C+build+with+passion%2C+ship+with+pride%22" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+👋+Let's+connect+and+innovate!;Open+to+collaborations+%7C+Always+learning+%7C+Forever+building+🌱" alt="Footer Typing"/>
 
 <br/>
 
