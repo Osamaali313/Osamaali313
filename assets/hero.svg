@@ -1,0 +1,114 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Syed Osama Ali — CTO at Attimo · Building Panovia · Agentic AI for AEC">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6E8BFA"/>
+      <stop offset="55%" stop-color="#7E7CF0"/>
+      <stop offset="100%" stop-color="#46C28E"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#6E8BFA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6E8BFA" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#6E8BFA" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6E8BFA" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#6E8BFA" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="14"/></clipPath>
+    <pattern id="gridMinor" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" stroke="#6E8BFA" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <pattern id="gridMajor" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M100 0H0V100" stroke="#6E8BFA" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#0B0E14"/>
+    <rect width="1200" height="300" fill="url(#gridMinor)"/>
+    <rect width="1200" height="300" fill="url(#gridMajor)"/>
+    <ellipse cx="950" cy="150" rx="420" ry="220" fill="url(#glow)"/>
+
+    <!-- sweeping scan line -->
+    <rect x="-300" y="0" width="300" height="300" fill="url(#scan)">
+      <animate attributeName="x" values="-300;1200" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- ── right side: wireframe structure + knowledge graph motif ── -->
+    <g stroke="#6E8BFA" stroke-opacity=".55" stroke-width="1.4" fill="none">
+      <!-- isometric building wireframe -->
+      <path d="M905 214 905 120 965 92 1025 120 1025 214 965 242Z"/>
+      <path d="M905 120 965 148 1025 120 M965 148 965 242"/>
+      <path d="M905 167 965 195 1025 167" stroke-opacity=".3"/>
+      <path d="M935 106 995 134 M935 200 935 134 M995 228 995 162" stroke-opacity=".3"/>
+      <animate attributeName="stroke-dasharray" values="0 600;600 0" dur="2.6s" fill="freeze"/>
+    </g>
+
+    <!-- graph edges from building to nodes -->
+    <g stroke-width="1.2" fill="none">
+      <path id="e1" d="M1025 120 C1075 96 1095 96 1128 78" stroke="#46C28E" stroke-opacity=".5" stroke-dasharray="4 5"/>
+      <path id="e2" d="M1025 167 C1080 168 1100 176 1138 158" stroke="#46C28E" stroke-opacity=".5" stroke-dasharray="4 5"/>
+      <path id="e3" d="M1025 214 C1072 232 1092 236 1124 236" stroke="#E8A33D" stroke-opacity=".5" stroke-dasharray="4 5"/>
+    </g>
+    <!-- pulses travelling along edges -->
+    <circle r="3.2" fill="#46C28E"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle>
+    <circle r="3.2" fill="#46C28E"><animateMotion dur="2.8s" begin=".6s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle>
+    <circle r="3.2" fill="#E8A33D"><animateMotion dur="3.1s" begin="1.1s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion></circle>
+    <!-- graph nodes -->
+    <g>
+      <circle cx="1128" cy="78" r="6" fill="#0B0E14" stroke="#46C28E" stroke-width="1.6">
+        <animate attributeName="r" values="6;7.5;6" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1138" cy="158" r="6" fill="#0B0E14" stroke="#46C28E" stroke-width="1.6">
+        <animate attributeName="r" values="6;7.5;6" dur="2.8s" begin=".6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1124" cy="236" r="6" fill="#0B0E14" stroke="#E8A33D" stroke-width="1.6">
+        <animate attributeName="r" values="6;7.5;6" dur="3.1s" begin="1.1s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- ── title-block corner (drawing sheet) ── -->
+    <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+      <rect x="24" y="22" width="212" height="34" rx="6" fill="#11151F" stroke="#232A3A"/>
+      <circle cx="44" cy="39" r="4" fill="#46C28E">
+        <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="58" y="44" font-size="13" letter-spacing="2" fill="#8B93A7">SHEET&#160;A-00&#160;·&#160;PROFILE</text>
+    </g>
+
+    <!-- ── name + role ── -->
+    <g font-family="Segoe UI,Inter,Helvetica,Arial,sans-serif">
+      <text x="26" y="140" font-size="58" font-weight="800" fill="#F3F5FA" letter-spacing="-1">Syed Osama Ali
+        <animate attributeName="opacity" values="0;1" dur=".9s" fill="freeze"/>
+      </text>
+      <text x="28" y="176" font-size="21" font-weight="600" fill="url(#accent)">CTO @ Attimo&#160;&#160;·&#160;&#160;Building Panovia
+        <animate attributeName="opacity" values="0;0;1" dur="1.4s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- dimension line under the name -->
+    <g stroke="#39415A" stroke-width="1.2">
+      <line x1="28" y1="200" x2="560" y2="200">
+        <animate attributeName="x2" values="28;560" dur="1.1s" begin=".5s" fill="freeze"/>
+      </line>
+      <line x1="28" y1="194" x2="28" y2="206"/>
+      <line x1="560" y1="194" x2="560" y2="206">
+        <animate attributeName="opacity" values="0;0;1" dur="1.5s" fill="freeze"/>
+      </line>
+    </g>
+    <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+      <text x="28" y="232" font-size="14.5" letter-spacing=".5" fill="#8B93A7">agentic&#160;AI&#160;for&#160;AEC&#160;teams&#160;&#160;—&#160;&#160;computer&#160;vision&#160;·&#160;knowledge&#160;graphs&#160;·&#160;multi-agent&#160;systems
+        <animate attributeName="opacity" values="0;0;1" dur="1.8s" fill="freeze"/>
+      </text>
+      <!-- blinking cursor -->
+      <rect x="28" y="248" width="9" height="17" fill="#6E8BFA">
+        <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="44" y="262" font-size="14" fill="#5A6379">reading the model, not the export.</text>
+    </g>
+
+    <!-- bottom accent rule -->
+    <rect x="0" y="294" width="1200" height="6" fill="url(#accent)"/>
+    <rect x="0" y="0" width="1200" height="300" rx="14" stroke="#232A3A" fill="none"/>
+  </g>
+</svg>

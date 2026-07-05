@@ -1,59 +1,70 @@
-<!-- ════════════════════════════════════════════════════════════════
-        Syed Osama Ali · GitHub Profile README
-        Palette  →  indigo #6E8BFA · green #46C28E · amber #E8A33D · ink #0B0E14
-     ════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════
+      Syed Osama Ali · GitHub Profile README · v2
+      Design system → drawing-sheet aesthetic (AEC)
+      Palette → indigo #6E8BFA · green #46C28E · amber #E8A33D · ink #0B0E14
+      All custom visuals live in ./assets (animated SVG, no external deps)
+     ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ░░░ HEADER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E8BFA,50:7E7CF0,100:46C28E&height=200&section=header&text=Syed%20Osama%20Ali&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=CTO%20%40%20Attimo%20%C2%B7%20Building%20Panovia%20%C2%B7%20AI%20for%20AEC%20teams&descSize=16&descAlignY=58" alt="Syed Osama Ali — CTO at Attimo, building Panovia"/>
+<!-- ░░░ HERO — custom animated SVG ░░░ -->
+<img src="./assets/hero.svg" width="100%" alt="Syed Osama Ali — CTO at Attimo · Building Panovia · Agentic AI for AEC teams"/>
 
-<!-- ░░░ TYPING LINE ░░░ -->
-<a href="http://www.osamaali.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=6E8BFA&background=00000000&center=true&vCenter=true&width=640&height=58&lines=CTO+%40+Attimo+%C2%B7+Building+Panovia;Agentic+AI+for+AEC+teams;Computer+Vision+%C2%B7+Applied+ML+%C2%B7+Full-Stack;Reading+the+model%2C+not+the+export." alt="Typing tagline" />
-</a>
+<br/><br/>
 
 <!-- ░░░ IDENTITY BADGES ░░░ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-CTO%20%40%20Attimo-0B0E14?style=for-the-badge&labelColor=0B0E14&color=6E8BFA" alt="Role"/>
-  <img src="https://img.shields.io/badge/Flagship-Panovia%20%C2%B7%20AEC%20AI-0B0E14?style=for-the-badge&labelColor=0B0E14&color=46C28E" alt="Flagship"/>
+<p>
+  <img src="https://img.shields.io/badge/Role-CTO%20%40%20Attimo-0B0E14?style=for-the-badge&labelColor=0B0E14&color=6E8BFA" alt="Role: CTO at Attimo"/>
+  <img src="https://img.shields.io/badge/Flagship-Panovia%20%C2%B7%20AEC%20AI-0B0E14?style=for-the-badge&labelColor=0B0E14&color=46C28E" alt="Flagship: Panovia, AEC AI"/>
   <img src="https://img.shields.io/badge/Backed%20by-UCL%20Hatchery-0B0E14?style=for-the-badge&labelColor=0B0E14&color=E8A33D" alt="Backed by UCL Hatchery"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Osamaali313&label=Profile%20views&color=6E8BFA&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Osamaali313?logo=github&style=flat-square&color=6E8BFA&labelColor=0B0E14" alt="Followers" />
-  <img src="https://img.shields.io/badge/Based-Ankara%20%C2%B7%20UK%20Inc-0B0E14?style=flat-square&labelColor=0B0E14&color=46C28E" alt="Based in Ankara, UK incorporated" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Osamaali313&label=Profile%20views&color=6E8BFA&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Osamaali313?logo=github&style=flat-square&color=6E8BFA&labelColor=0B0E14" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Based-Ankara%20%C2%B7%20UK%20Inc-0B0E14?style=flat-square&labelColor=0B0E14&color=46C28E" alt="Based in Ankara, UK incorporated"/>
 </p>
 
 </div>
 
----
+<br/>
 
-## 🏗️ Building Panovia
+<!-- ════ A-01 · BUILDING PANOVIA ════ -->
+<img src="./assets/header-panovia.svg" width="100%" alt="Sheet A-01 — Building Panovia"/>
 
-> **Panovia** is an AI-native knowledge layer for **AEC** — Architecture, Engineering & Construction. An agentic assistant that understands a project's real source-of-truth and answers with **evidence**, not guesses.
+<br/>
+
+> **Panovia** is an AI-native knowledge layer for **AEC** — Architecture, Engineering & Construction. An agentic assistant that understands a project's real source of truth and answers with **evidence**, not guesses.
+
+<img src="./assets/panovia-pipeline.svg" width="100%" alt="How Panovia works: project sources (IFC, DWG, PDF) are extracted into a typed knowledge graph, and every answer is cited back to the source"/>
+
+<br/>
 
 As **CTO at [Attimo Technologies](https://www.linkedin.com/in/syed-osama-ali-shah-a74a23215)** — UK-incorporated, engineering out of Ankara — I own the technical direction and the build:
 
-- 🧠 An assistant that understands projects from their **actual models and drawings** — not a generic chatbot bolted onto PDFs.
-- 🔍 Every answer is **traceable back to the source**, so engineers can trust it on work that matters.
-- 🏗️ **Purpose-built for AEC workflows** and the way real project teams actually operate.
-- 🎓 Backed by the **UCL Hatchery** at BaseKX, King's Cross.
+|  | What that means in practice |
+|:--|:--|
+| 🧠 **Reads the model** | Understands projects from their **actual models and drawings** — not a chatbot bolted onto PDFs |
+| 🔍 **Evidence-first** | Every answer is **traceable back to the source**, so engineers trust it on work that matters |
+| 🏗️ **Built for AEC** | Purpose-built for the way real project teams actually operate |
+| 🎓 **Backed** | **UCL Hatchery** at BaseKX, King's Cross |
 
 <div align="center">
-<a href="http://www.osamaali.tech/"><img src="https://img.shields.io/badge/More%20about%20what%20I%20build-0B0E14?style=for-the-badge&color=6E8BFA" alt="More about what I build"/></a>
+  <a href="http://www.osamaali.tech/"><img src="https://img.shields.io/badge/More%20about%20what%20I%20build%20→-0B0E14?style=for-the-badge&color=6E8BFA" alt="More about what I build"/></a>
 </div>
 
----
+<br/>
 
-## 🧠 Tech I Work With
+<!-- ════ A-02 · TECH I WORK WITH ════ -->
+<img src="./assets/header-stack.svg" width="100%" alt="Sheet A-02 — Tech I work with"/>
+
+<br/>
 
 <div align="center">
 
 **Core Stack**
 
-[![Core stack](https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,fastapi,tailwind,postgres,docker,gcp,git&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,fastapi,tailwind,postgres,docker,gcp,git&theme=dark" alt="Python, TypeScript, JavaScript, Node.js, React, Next.js, FastAPI, Tailwind, Postgres, Docker, GCP, Git"/></a>
 
 **AI · Computer Vision · Knowledge**
 
@@ -69,38 +80,47 @@ As **CTO at [Attimo Technologies](https://www.linkedin.com/in/syed-osama-ali-sha
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Activity
+<!-- ════ A-03 · GITHUB ACTIVITY ════ -->
+<img src="./assets/header-activity.svg" width="100%" alt="Sheet A-03 — GitHub activity"/>
+
+<br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Osamaali313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6E8BFA&icon_color=46C28E" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Osamaali313&theme=tokyonight&hide_border=true&ring=6E8BFA&fire=E8A33D&currStreakLabel=6E8BFA" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Osamaali313&show_icons=true&theme=tokyonight&hide_border=true&title_color=6E8BFA&icon_color=46C28E&text_color=8B93A7&bg_color=0B0E14&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Osamaali313&theme=tokyonight&hide_border=true&background=0B0E14&ring=6E8BFA&fire=E8A33D&currStreakLabel=6E8BFA" alt="GitHub streak"/>
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamaali313&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6E8BFA" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamaali313&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6E8BFA&text_color=8B93A7&bg_color=0B0E14&cache_seconds=86400" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Osamaali313&bg_color=0B0E14&color=6E8BFA&line=6E8BFA&point=46C28E&area=true&area_color=6E8BFA&hide_border=true" alt="Contribution activity graph" />
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Osamaali313&bg_color=0B0E14&color=6E8BFA&line=6E8BFA&point=46C28E&area=true&area_color=6E8BFA&hide_border=true&radius=12" alt="Contribution activity graph"/>
 
 </div>
 
----
+<br/>
 
-## ✍️ Writing
+<!-- ════ A-04 · WRITING ════ -->
+<img src="./assets/header-writing.svg" width="100%" alt="Sheet A-04 — Writing"/>
+
+<br/>
 
 - 📖 [**Enhancing AI Model Accuracy With RAG**](http://www.osamaali.tech/2024/07/ragforaccuracy.html) — a deep dive into Retrieval-Augmented Generation.
 
 More at **[osamaali.tech](http://www.osamaali.tech/)**.
 
----
+<br/>
+
+<!-- ════ A-05 · CONNECT ════ -->
+<img src="./assets/header-connect.svg" width="100%" alt="Sheet A-05 — Connect"/>
+
+<br/>
 
 <div align="center">
-
-## 🤝 Connect
 
 <a href="https://www.linkedin.com/in/syed-osama-ali-shah-a74a23215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/osamaali_72"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
@@ -110,6 +130,7 @@ More at **[osamaali.tech](http://www.osamaali.tech/)**.
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:46C28E,100:6E8BFA&height=120&section=footer&text=Reading%20the%20model%2C%20not%20the%20export.&fontSize=18&fontColor=ffffff&fontAlignY=68&desc=Let%27s%20build.&descAlignY=90&descSize=12" alt="Footer"/>
+<!-- ░░░ FOOTER — custom animated SVG ░░░ -->
+<img src="./assets/footer.svg" width="100%" alt="Reading the model, not the export. Let's build."/>
 
 </div>
