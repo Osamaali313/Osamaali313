@@ -1,0 +1,40 @@
+name: Refresh stat cards
+
+# Regenerates assets/stats.svg and assets/top-langs.svg from live GitHub
+# data so the self-hosted cards stay current without depending on the
+# flaky shared github-readme-stats instance.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # daily at 05:17 UTC
+  workflow_dispatch:        # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stat cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_stats.py --out assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain assets/stats.svg assets/top-langs.svg)" ]; then
+            git add assets/stats.svg assets/top-langs.svg
+            git commit -m "chore: refresh stat cards [skip ci]"
+            git push
+          else
+            echo "No changes to stat cards."
+          fi

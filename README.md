@@ -89,12 +89,12 @@ As **CTO at [Attimo Technologies](https://www.linkedin.com/in/syed-osama-ali-sha
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Osamaali313&show_icons=true&theme=tokyonight&hide_border=true&title_color=6E8BFA&icon_color=46C28E&text_color=8B93A7&bg_color=0B0E14&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=Osamaali313&theme=tokyonight&hide_border=true&background=0B0E14&ring=6E8BFA&fire=E8A33D&currStreakLabel=6E8BFA" alt="GitHub streak"/>
+<img height="195" src="./assets/stats.svg" alt="GitHub stats — total stars, commits, pull requests, issues and repositories contributed to"/>
+<img height="195" src="https://streak-stats.demolab.com/?user=Osamaali313&theme=tokyonight&hide_border=true&background=0B0E14&ring=6E8BFA&fire=E8A33D&currStreakLabel=6E8BFA" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osamaali313&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6E8BFA&text_color=8B93A7&bg_color=0B0E14&cache_seconds=86400" alt="Top languages"/>
+<img width="495" src="./assets/top-langs.svg" alt="Most used languages by code size: Python, PureBasic, JavaScript, HTML, CSS, kvlang"/>
 
 <br/><br/>
 

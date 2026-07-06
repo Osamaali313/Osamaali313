@@ -1,0 +1,54 @@
+<svg width="495" height="248" viewBox="0 0 495 248" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages by Osamaali313">
+<defs>
+<linearGradient id="lAcc" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#46C28E"/><stop offset="100%" stop-color="#6E8BFA"/></linearGradient>
+<clipPath id="lFrame"><rect width="495" height="248" rx="12"/></clipPath>
+<clipPath id="lBar"><rect x="30" y="74" width="435" height="11" rx="5.5"/></clipPath>
+</defs>
+<g clip-path="url(#lFrame)" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+<rect width="495" height="248" fill="#0B0E14"/>
+<rect x="0" y="0" width="6" height="248" fill="url(#lAcc)"/>
+<text x="30" y="42" font-size="19" font-weight="700" letter-spacing="1.5" fill="#F3F5FA" font-family="Segoe UI,Inter,Helvetica,Arial,sans-serif">Most Used Languages</text>
+<text x="30" y="62" font-size="11" letter-spacing="2" fill="#5A6379">BY CODE SIZE · EXCL. NOTEBOOKS</text>
+<rect x="30" y="74" width="435" height="11" rx="5.5" fill="#11151F"/>
+<linearGradient id="lShimmer" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="50%" stop-color="#FFFFFF" stop-opacity=".35"/><stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<g clip-path="url(#lBar)">
+<rect x="30.00" y="74" width="375.65" height="11" fill="#3572A5"/>
+<rect x="405.65" y="74" width="41.56" height="11" fill="#5a6986"/>
+<rect x="447.20" y="74" width="8.62" height="11" fill="#f1e05a"/>
+<rect x="455.82" y="74" width="4.81" height="11" fill="#e34c26"/>
+<rect x="460.63" y="74" width="3.32" height="11" fill="#663399"/>
+<rect x="463.96" y="74" width="1.04" height="11" fill="#1da6e0"/>
+<rect x="30" y="74" width="90" height="11" fill="url(#lShimmer)"><animate attributeName="x" values="30;465" dur="4.5s" repeatCount="indefinite"/></rect>
+</g>
+<g>
+<circle cx="36" cy="104" r="6" fill="#3572A5"><animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="50" y="108" font-size="13" fill="#8B93A7">Python</text>
+<text x="225" y="108" font-size="13" font-weight="700" fill="#F3F5FA" text-anchor="end">86.4%</text>
+</g>
+<g>
+<circle cx="36" cy="130" r="6" fill="#5a6986"><animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="0.40s" repeatCount="indefinite"/></circle>
+<text x="50" y="134" font-size="13" fill="#8B93A7">PureBasic</text>
+<text x="225" y="134" font-size="13" font-weight="700" fill="#F3F5FA" text-anchor="end">9.6%</text>
+</g>
+<g>
+<circle cx="36" cy="156" r="6" fill="#f1e05a"><animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="0.80s" repeatCount="indefinite"/></circle>
+<text x="50" y="160" font-size="13" fill="#8B93A7">JavaScript</text>
+<text x="225" y="160" font-size="13" font-weight="700" fill="#F3F5FA" text-anchor="end">2.0%</text>
+</g>
+<g>
+<circle cx="271" cy="104" r="6" fill="#e34c26"><animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="1.20s" repeatCount="indefinite"/></circle>
+<text x="285" y="108" font-size="13" fill="#8B93A7">HTML</text>
+<text x="460" y="108" font-size="13" font-weight="700" fill="#F3F5FA" text-anchor="end">1.1%</text>
+</g>
+<g>
+<circle cx="271" cy="130" r="6" fill="#663399"><animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="1.60s" repeatCount="indefinite"/></circle>
+<text x="285" y="134" font-size="13" fill="#8B93A7">CSS</text>
+<text x="460" y="134" font-size="13" font-weight="700" fill="#F3F5FA" text-anchor="end">0.8%</text>
+</g>
+<g>
+<circle cx="271" cy="156" r="6" fill="#1da6e0"><animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="2.00s" repeatCount="indefinite"/></circle>
+<text x="285" y="160" font-size="13" fill="#8B93A7">kvlang</text>
+<text x="460" y="160" font-size="13" font-weight="700" fill="#F3F5FA" text-anchor="end">0.2%</text>
+</g>
+<rect x="0" y="0" width="495" height="248" rx="12" stroke="#232A3A" fill="none"/>
+</g></svg>
