@@ -19,12 +19,12 @@
 <g>
 <text x="30" y="124" font-size="14" fill="#46C28E">↑<animate attributeName="opacity" values="1;0.35;1" dur="3s" begin="0.40s" repeatCount="indefinite"/></text>
 <text x="52" y="124" font-size="13.5" fill="#8B93A7">Commits (last year)</text>
-<text x="465" y="124" font-size="14" font-weight="700" fill="#F3F5FA" text-anchor="end">102</text>
+<text x="465" y="124" font-size="14" font-weight="700" fill="#F3F5FA" text-anchor="end">104</text>
 </g>
 <g>
 <text x="30" y="144" font-size="14" fill="#6E8BFA">⇄<animate attributeName="opacity" values="1;0.35;1" dur="3s" begin="0.80s" repeatCount="indefinite"/></text>
 <text x="52" y="144" font-size="13.5" fill="#8B93A7">Total Pull Requests</text>
-<text x="465" y="144" font-size="14" font-weight="700" fill="#F3F5FA" text-anchor="end">166</text>
+<text x="465" y="144" font-size="14" font-weight="700" fill="#F3F5FA" text-anchor="end">171</text>
 </g>
 <g>
 <text x="30" y="164" font-size="14" fill="#E8A33D">◎<animate attributeName="opacity" values="1;0.35;1" dur="3s" begin="1.20s" repeatCount="indefinite"/></text>
@@ -34,7 +34,7 @@
 <g>
 <text x="30" y="184" font-size="14" fill="#46C28E">☷<animate attributeName="opacity" values="1;0.35;1" dur="3s" begin="1.60s" repeatCount="indefinite"/></text>
 <text x="52" y="184" font-size="13.5" fill="#8B93A7">Contributed to (last yr)</text>
-<text x="465" y="184" font-size="14" font-weight="700" fill="#F3F5FA" text-anchor="end">151</text>
+<text x="465" y="184" font-size="14" font-weight="700" fill="#F3F5FA" text-anchor="end">156</text>
 </g>
 <rect x="0" y="0" width="495" height="195" rx="12" stroke="#232A3A" fill="none"/>
 </g></svg>
